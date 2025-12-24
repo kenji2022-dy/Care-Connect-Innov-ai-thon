@@ -1,0 +1,14 @@
+{
+  "assetId": "sim-1762013923549-0",
+  "step": 1,
+  "type": "initial_generation",
+  "createdAt": "2025-11-01T16:18:43.551Z",
+  "requestExample": {
+    "model": "veo-3.1",
+    "action": "generate",
+    "prompt": "simple exercise for beginners",
+    "lengthSeconds": 8,
+    "quality": "hd",
+    "outputFormat": "mp4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "assetId": "sim-1762013499474-6",
+  "step": 7,
+  "type": "scene_extension",
+  "createdAt": "2025-11-01T16:11:39.475Z",
+  "requestExample": {
+    "model": "veo-3.1",
+    "action": "extend",
+    "baseAssetId": "<asset_id_from_previous_step>",
+    "prompt": "simple exercise for beginners",
+    "lengthSeconds": 8,
+    "continuity": "visual_audio_continuity",
+    "outputFormat": "mp4"
+  }
+}
