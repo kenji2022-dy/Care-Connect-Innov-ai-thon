@@ -7,6 +7,11 @@
 **Problem**: 70% of healthcare costs are spent on preventable conditions. 40% of patients miss follow-ups. 60% of medication errors occur due to poor adherence.
 
 **Solution**: CareConnect bridges the gap between patients and healthcare providers through AI-powered automation, voice interactions, and intelligent monitoring.
+## 🎥 Project Demo
+
+📽️ **Demo Video (Google Drive):**  
+🔗 https://drive.google.com/drive/folders/1VM3uZ65lVb6jLSNJb74UIO2n4k13Glvm?usp=sharing
+
 
 ---
 
